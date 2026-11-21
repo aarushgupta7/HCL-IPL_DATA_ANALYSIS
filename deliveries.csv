@@ -1,0 +1,34 @@
+match_id,inning,batsman,bowler,batsman_runs,total_runs,is_wicket,dismissal_kind
+1,1,Ruturaj Gaikwad,Mohammed Shami,4,4,0,
+1,1,Devon Conway,Mohammed Shami,6,6,0,
+1,1,Shivam Dube,Rashid Khan,6,6,0,
+1,2,Shubman Gill,Deepak Chahar,4,4,0,
+1,2,Hardik Pandya,Ravindra Jadeja,0,0,1,bowled
+2,1,Rohit Sharma,Mohammed Siraj,4,4,0,
+2,1,Ishan Kishan,Mohammed Siraj,6,6,0,
+2,2,Virat Kohli,Jofra Archer,4,4,0,
+2,2,Faf du Plessis,Jofra Archer,6,6,0,
+2,2,Glenn Maxwell,Piyush Chawla,0,0,1,caught
+3,1,Jos Buttler,Arshdeep Singh,4,4,0,
+3,1,Yashasvi Jaiswal,Arshdeep Singh,6,6,0,
+3,2,Shikhar Dhawan,Trent Boult,4,4,0,
+3,2,Prabhsimran Singh,Yuzvendra Chahal,0,0,1,bowled
+4,1,KL Rahul,Mark Wood,4,4,0,
+4,1,Kyle Mayers,Mark Wood,6,6,0,
+4,2,David Warner,Avesh Khan,4,4,0,
+4,2,Prithvi Shaw,Avesh Khan,0,0,1,bowled
+5,1,Nitish Rana,Bhuvneshwar Kumar,4,4,0,
+5,1,Rinku Singh,Umran Malik,6,6,0,
+5,2,Harry Brook,Umesh Yadav,4,4,0,
+5,2,Abhishek Sharma,Shardul Thakur,0,0,1,caught
+6,1,Jos Buttler,Mohammed Shami,6,6,0,
+6,1,Sanju Samson,Rashid Khan,4,4,0,
+6,2,Shubman Gill,Prasidh Krishna,4,4,0,
+6,2,David Miller,Yuzvendra Chahal,6,6,0,
+7,1,Ruturaj Gaikwad,Jasprit Bumrah,4,4,0,
+7,1,MS Dhoni,Daniel Sams,6,6,0,
+7,2,Rohit Sharma,Dwayne Bravo,0,0,1,caught
+8,1,Faf du Plessis,Arshdeep Singh,6,6,0,
+8,1,Virat Kohli,Kagiso Rabada,4,4,0,
+8,2,Shikhar Dhawan,Josh Hazlewood,4,4,0,
+8,2,Liam Livingstone,Wanindu Hasaranga,6,6,0,

@@ -1,0 +1,9 @@
+id,season,team1,team2,toss_winner,toss_decision,winner,venue
+1,2023,Chennai Super Kings,Gujarat Titans,Gujarat Titans,field,Chennai Super Kings,Ahmedabad
+2,2023,Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,field,Royal Challengers Bangalore,Mumbai
+3,2023,Rajasthan Royals,Punjab Kings,Punjab Kings,field,Punjab Kings,Guwahati
+4,2023,Delhi Capitals,Lucknow Super Giants,Delhi Capitals,field,Lucknow Super Giants,Lucknow
+5,2023,Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Sunrisers Hyderabad,Kolkata
+6,2022,Gujarat Titans,Rajasthan Royals,Gujarat Titans,field,Gujarat Titans,Ahmedabad
+7,2022,Chennai Super Kings,Mumbai Indians,Mumbai Indians,field,Chennai Super Kings,Mumbai
+8,2022,Royal Challengers Bangalore,Punjab Kings,Punjab Kings,field,Punjab Kings,Mumbai
